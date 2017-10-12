@@ -1,6 +1,12 @@
 /* Nav Bar CSS */
-
-
+.col-xs-8 {
+    background-color:red;
+    border: solid;
+}
+.col-xs-4 {
+    background-color:blue;
+    border: solid;
+}
 /* Header CSS */
 
 
